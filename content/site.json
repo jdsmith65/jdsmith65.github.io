@@ -1,0 +1,358 @@
+{
+  "profile": {
+    "name": "Jared D. Smith",
+    "title": "Professor of Finance",
+    "distinction": "Dean’s Scholar",
+    "university": "North Carolina State University",
+    "college": "Poole College of Management",
+    "department": "Department of Finance",
+    "email": "jared_smith@ncsu.edu",
+    "phone": "919-515-4539",
+    "office": "4124 Nelson Hall",
+    "location": "Raleigh, North Carolina",
+    "bio": "I study how political institutions, tax policy, and managerial behavior shape corporate decisions.",
+    "personal": "Outside academia, I enjoy reading, hockey, cooking, and learning something new.",
+    "faculty_url": "https://poole.ncsu.edu/people/jdsmit29/",
+    "scholar_url": "",
+    "updated": "October 2026",
+    "cv_date": "September 2026",
+    "selected_journals": [
+      {
+        "label": "Journal of Financial Economics",
+        "url": "https://doi.org/10.1016/j.jfineco.2015.08.021"
+      },
+      {
+        "label": "Journal of Financial and Quantitative Analysis",
+        "url": "https://doi.org/10.1017/S0022109024000723"
+      },
+      {
+        "label": "The Accounting Review",
+        "url": "https://doi.org/10.2308/tar-2017-0331"
+      }
+    ],
+    "institutional_citations": [
+      {
+        "label": "European Commission",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026SC0606",
+        "kind": "policy"
+      },
+      {
+        "label": "OECD",
+        "url": "https://www.oecd.org/en/publications/boosting-business-in-regions_396cc7c2-en/full-report/boosting-business-in-regions-by-improving-the-business-environment_50a9ad44.html",
+        "kind": "policy"
+      },
+      {
+        "label": "Bank of England staff research",
+        "url": "https://www.bankofengland.co.uk/working-paper/2020/inferring-trade-directions-in-fast-markets",
+        "kind": "research"
+      }
+    ]
+  },
+  "publications": [
+    {
+      "title": "Leave It to Me: Overconfident CEOs’ Lower Propensity to Delegate Acquisition Responsibility",
+      "coauthors": "Daniel Greene and Matthew Josefy",
+      "journal": "Journal of Management Studies",
+      "details": "Advance online publication",
+      "doi": "10.1111/joms.70095",
+      "year": "2026",
+      "links": []
+    },
+    {
+      "title": "Better Tax Enforcement Moderates Airbnb’s Pressure on Housing Costs",
+      "coauthors": "Jesse Ellis, David Kenchington, and Roger White",
+      "journal": "Journal of Financial and Quantitative Analysis",
+      "details": "60 (7), 3591–3621",
+      "doi": "10.1017/S0022109024000723",
+      "year": "2025",
+      "links": [
+        {
+          "label": "European Commission impact assessment",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026SC0606"
+        }
+      ]
+    },
+    {
+      "title": "Do sin tax hikes spur cheating in interpersonal exchange?",
+      "coauthors": "David Kenchington, Thomas Shohfi, and Roger White",
+      "journal": "Accounting, Organizations, and Society",
+      "details": "96",
+      "doi": "10.1016/j.aos.2021.101281",
+      "year": "2022",
+      "links": [
+        {
+          "label": "SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3875826"
+        }
+      ]
+    },
+    {
+      "title": "Timing CEO turnovers: Evidence from delegation in mergers and acquisitions",
+      "coauthors": "Daniel Greene",
+      "journal": "Journal of Banking and Finance",
+      "details": "126",
+      "doi": "10.1016/j.jbankfin.2021.106095",
+      "year": "2021",
+      "links": [
+        {
+          "label": "SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793022"
+        }
+      ]
+    },
+    {
+      "title": "How Does Acquisition Experience Affect Managerial Career Outcomes?",
+      "coauthors": "Daniel Greene",
+      "journal": "Journal of Financial and Quantitative Analysis",
+      "details": "56 (4), 1381–1407",
+      "doi": "10.1017/S0022109020000411",
+      "year": "2021",
+      "links": [
+        {
+          "label": "SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3092201"
+        }
+      ]
+    },
+    {
+      "title": "U.S. political corruption and audit fees",
+      "coauthors": "Anand Jha and Manoj Kulchania",
+      "journal": "The Accounting Review",
+      "details": "96 (1), 299–324",
+      "doi": "10.2308/tar-2017-0331",
+      "year": "2021",
+      "links": [
+        {
+          "label": "SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3533323"
+        }
+      ]
+    },
+    {
+      "title": "Political Corruption and Firm Value in the U.S.: Do Rents and Monitoring Matter?",
+      "coauthors": "Nerissa Brown, Roger M. White, and Chad Zutter",
+      "journal": "Journal of Business Ethics",
+      "details": "168 (2), 335–351",
+      "doi": "10.1007/s10551-019-04181-0",
+      "year": "2021",
+      "links": [
+        {
+          "label": "SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3147385"
+        }
+      ]
+    },
+    {
+      "title": "Corruption and corporate innovation",
+      "coauthors": "Jesse A. Ellis and Roger M. White",
+      "journal": "Journal of Financial and Quantitative Analysis",
+      "details": "55 (7), 2124–2149",
+      "doi": "10.1017/S0022109019000735",
+      "year": "2020",
+      "links": [
+        {
+          "label": "SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862128"
+        },
+        {
+          "label": "OECD policy report",
+          "url": "https://www.oecd.org/en/publications/boosting-business-in-regions_396cc7c2-en/full-report/boosting-business-in-regions-by-improving-the-business-environment_50a9ad44.html"
+        }
+      ]
+    },
+    {
+      "title": "Bulk Volume Classification and Information Detection",
+      "coauthors": "Marios Panayides and Thomas Shohfi",
+      "journal": "Journal of Banking and Finance",
+      "details": "103, 113–129",
+      "doi": "10.1016/j.jbankfin.2019.04.001",
+      "year": "2019",
+      "links": [
+        {
+          "label": "Bank of England staff paper",
+          "url": "https://www.bankofengland.co.uk/working-paper/2020/inferring-trade-directions-in-fast-markets"
+        }
+      ]
+    },
+    {
+      "title": "US political corruption and firm financial policies",
+      "coauthors": "",
+      "journal": "Journal of Financial Economics",
+      "details": "121, 350–367",
+      "doi": "10.1016/j.jfineco.2015.08.021",
+      "year": "2016",
+      "links": []
+    },
+    {
+      "title": "Employee–management trust and M&A activity",
+      "coauthors": "Leonce Bargeron and Ken Lehn",
+      "journal": "Journal of Corporate Finance",
+      "details": "35, 389–406",
+      "doi": "10.1016/j.jcorpfin.2015.07.012",
+      "year": "2015",
+      "links": [
+        {
+          "label": "SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2096242"
+        }
+      ]
+    }
+  ],
+  "working_papers": [
+    {
+      "title": "Regulatory Burdens and Entrepreneurship: Evidence from Sales Tax Complexity",
+      "coauthors": "David Kenchington, Chris Paparcuri, and Roger White",
+      "year": "2026",
+      "status": "Third-round revise and resubmit, The Accounting Review",
+      "links": [
+        {
+          "label": "SSRN",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4801079"
+        }
+      ]
+    },
+    {
+      "title": "Does Home-Sharing Boost Evictions? Evidence from Florida Sales Tax Crackdowns on Airbnb",
+      "coauthors": "Jesse Ellis, David Kenchington, and Roger White",
+      "year": "2026",
+      "status": "Revise and resubmit, Management Science",
+      "links": []
+    },
+    {
+      "title": "Unraveling the mystery of zero leverage firms",
+      "coauthors": "David J. Denis",
+      "year": "2026",
+      "status": "Working paper",
+      "links": []
+    }
+  ],
+  "works_in_progress": [
+    {
+      "title": "Do Managers Learn from Their Stock Prices?",
+      "coauthors": "Arash Dayani and Daniel Greene",
+      "year": "2026"
+    },
+    {
+      "title": "Are Firms Becoming Less Myopic?",
+      "coauthors": "Mark Walker",
+      "year": "2026"
+    },
+    {
+      "title": "Regional Trade Liberalization and Cross-border M&A: Evidence from Free Trade Zones in China",
+      "coauthors": "Xinfei Huang, Ivan Kandilov, and Chi Zhang",
+      "year": "2024"
+    }
+  ],
+  "permanent_working_papers": [
+    {
+      "title": "Earnings management in politically corrupt U.S. districts: Cloak or shield?",
+      "coauthors": "Matthew Boland, Dave Godsell, Anand Jha, and Manoj Kulchania",
+      "year": ""
+    }
+  ],
+  "teaching": [
+    {
+      "title": "Financial Modeling",
+      "audience": "Undergraduate and MBA",
+      "institution": "North Carolina State University",
+      "dates": "2017–present"
+    },
+    {
+      "title": "Investments and Portfolio Management",
+      "audience": "",
+      "institution": "North Carolina State University",
+      "dates": "2016–present"
+    }
+  ],
+  "cv": {
+    "appointments": [
+      [
+        "2025–present",
+        "Professor",
+        "North Carolina State University"
+      ],
+      [
+        "2020–2025",
+        "Associate Professor",
+        "North Carolina State University"
+      ],
+      [
+        "2016–2020",
+        "Assistant Professor",
+        "North Carolina State University"
+      ],
+      [
+        "2014–2016",
+        "Assistant Professor",
+        "Clemson University"
+      ]
+    ],
+    "education": [
+      [
+        "2014",
+        "Ph.D., Business Administration (Finance)",
+        "University of Pittsburgh"
+      ],
+      [
+        "2009",
+        "B.S., Business Administration (Finance)",
+        "University of Pittsburgh"
+      ]
+    ],
+    "honors": [
+      [
+        "2025–2030",
+        "Dean’s Scholar"
+      ],
+      [
+        "2024–2025",
+        "Owens Graduate Faculty Fellow Award"
+      ],
+      [
+        "2023",
+        "Academy of Management Best Paper Award"
+      ],
+      [
+        "2022",
+        "Research Leadership Award"
+      ],
+      [
+        "2016",
+        "Finance Research Excellence Award"
+      ],
+      [
+        "2015",
+        "Dean’s Excellence Fund Research Grant"
+      ],
+      [
+        "2013",
+        "Doctoral Consortium Participant, FMA"
+      ],
+      [
+        "2012, 2013",
+        "Doctoral Teaching Award"
+      ],
+      [
+        "2009–2010",
+        "Douglas G. Sisterson Fellow"
+      ]
+    ],
+    "earlier_teaching": [
+      [
+        "2015–2016",
+        "Financial Modeling",
+        "Clemson University"
+      ],
+      [
+        "2014–2015",
+        "Financial Management I",
+        "Clemson University"
+      ],
+      [
+        "2012–2013",
+        "Investment Management",
+        "University of Pittsburgh"
+      ]
+    ]
+  }
+}
