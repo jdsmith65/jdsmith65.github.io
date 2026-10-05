@@ -55,7 +55,7 @@ def rows(items):
 
 def shell(title, body, is_cv=False):
     desc = f'{p["name"]}, {p["title"]} and {p["distinction"]} at {p["university"]}. Research, publications, working papers, and teaching.'
-    nav = '<a href="index.html#publications">Publications</a><a href="index.html#working-papers">Working papers</a><a href="index.html#teaching">Teaching</a><a href="cv.html"' + (' aria-current="page"' if is_cv else '') + '>CV</a>'
+    nav = '<a href="index.html#publications">Publications</a><a href="index.html#working-papers">Working papers</a><a href="index.html#teaching">Teaching</a><a href="assets/cv.pdf">CV (PDF)</a>'
     return f'''<!doctype html>
 <html lang="en">
 <head>
@@ -80,7 +80,7 @@ def shell(title, body, is_cv=False):
 '''
 
 
-profile_links = link('cv.html', 'Curriculum vitae', 'button') + link(p['faculty_url'], 'NC State profile')
+profile_links = link('assets/cv.pdf', 'Curriculum vitae (PDF)', 'button') + link(p['faculty_url'], 'NC State profile')
 if p.get('scholar_url'):
     profile_links += link(p['scholar_url'], 'Google Scholar')
 journal_links = ['<cite>' + link(item['url'], item['label']) + '</cite>' for item in p.get('selected_journals', [])]
